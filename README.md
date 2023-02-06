@@ -1,4 +1,4 @@
-# 42flows-task
+# Map with history of the state and Async queue which keep results in order of adding calls.
 
 queue.ts - solution for the task 2 AsyncQueue.
 
